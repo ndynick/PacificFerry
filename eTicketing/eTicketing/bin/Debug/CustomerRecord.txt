@@ -1,0 +1,77 @@
+
+=============================================================================================================================================
+Date: Sunday, 14 April 2019 | Time: 7:29:11 PM
+
+.:: Customer Information ::.
+Customer Name: Jessica Tan
+NRIC: S1234567G
+Nationality: Singaporean
+Sex: Female
+Address: Blk 123, Bukit Merah
+Contact Number: 86543290
+Email: jessicatan@gmail.com
+Mode Of Payment: Mastercard
+Card Number: 0
+CVC Number: 321
+Card Expiry Date: Sunday, 14 April 2019
+Total Amount is $: 284.8
+
+
+.:: Customer's Booking Information ::.
+Seat Number: h2
+Quantity: 1
+Type: Adult
+Destination: Bintan
+Manager Name: Nick Low
+=============================================================================================================================================
+=============================================================================================================================================
+Date: Sunday, 14 April 2019 | Time: 7:29:11 PM
+
+.:: Customer Information ::.
+Customer Name: Keaton Law
+NRIC: S1234568I
+Nationality: Singaporean
+Sex: Male
+Address: Blk 527, Bukit Panjang
+Contact Number: 91127524
+Email: keatonlaw@hotmail.com
+Mode Of Payment: Cash
+Card Number: 0
+CVC Number: 783
+Card Expiry Date: Sunday, 14 April 2019
+Total Amount is $: 316
+
+
+.:: Customer's Booking Information ::.
+Seat Number: c7
+Quantity: 1
+Type: Child
+Destination: Batam
+Manager Name: Nick Low
+=============================================================================================================================================
+=============================================================================================================================================
+Date: Sunday, 14 April 2019 | Time: 7:29:11 PM
+
+.:: Customer Information ::.
+Customer Name: Jessica Tan
+NRIC: S1234567G
+Nationality: Singaporean
+Sex: Female
+Address: Blk 123, Bukit Merah
+Contact Number: 86543290
+Email: jessicatan@gmail.com
+Mode Of Payment: Cash
+Card Number: 0
+CVC Number: 783
+Card Expiry Date: Sunday, 14 April 2019
+Total Amount is $: 316
+
+
+.:: Customer's Booking Information ::.
+Seat Number: h2
+Quantity: 1
+Type: Child
+Destination: Batam
+Manager Name: Nick Low
+=============================================================================================================================================
+
